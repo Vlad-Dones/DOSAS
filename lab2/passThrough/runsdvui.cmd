@@ -1,0 +1,2 @@
+cd /d "C:\Users\zaza3\source\repos\passThrough" &msbuild "passThrough.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform="x64" /p:SolutionDir="C:\Users\zaza3\source\repos\passThrough" 
+exit %errorlevel% 
